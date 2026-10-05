@@ -1,4 +1,6 @@
 build/
+data/
+tests/public_tests.cpp
 .DS_Store
 .vs/
 *.user
